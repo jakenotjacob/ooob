@@ -1,0 +1,10 @@
+---
+:name:
+:server:
+  :hostname:
+  :port:
+:channel:
+:admin:
+:users:
+  -
+:commands:
